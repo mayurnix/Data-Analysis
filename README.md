@@ -1,2 +1,2 @@
 # Data-Analysis
-Python, numpy, pandas, scipy,  SQL, MySQL.
+Python, numpy, pandas, scipy, matplotlib.
